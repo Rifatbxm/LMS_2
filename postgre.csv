@@ -1,0 +1,11 @@
+user_id,f_name,l_name,email,password,location,social_links,reg_date
+5,Rifat,Banu,rifatbanu263@gmail.com,$2y$10$nQAGGSpA2zqEErfdQ.AizOZamCYN4B9XCpFyNbxcMd8/u4r6sP2Ry,postgres,ghlhhjj,2024-11-01 13:37:44.003508
+6,Isha,Paul,ishapaul@gmail.com,$2y$10$YcOVDWzHweUOX5YWiKjoxeFNbaoNin1LZ0oZ.ei1.TCqvLWXrlOsi,guwahati,ghlhhjjk,2024-11-01 13:41:18.768798
+7,Neelgreev,Ganguly,neel@gmail.com,$2y$10$hAMnPIX6AwjszyQV5/f0POHjRn3iL1vhQIUMPazzloUEi/XrO1U9a,behala,vbjksxx,2024-11-01 13:43:16.450005
+8,Ishita,Adhikary,Ishita@gmail.com,$2y$10$eC5ET9cYa2ASp4HCoAGPEes/FNiVPI7.wfJASCU0Zvn/WOVucwIbW,behala14no,vbjksxxas,2024-11-01 13:43:48.002243
+9,Agnishwar,Das,Agni@gmail.com,$2y$10$XGSDIs55vGS/62kPxXKSwu8GufDj5QnRt7xyl/8kgq69jzB.D/jyy,aarambagh,vbjksxxassd,2024-11-01 13:44:21.138566
+10,Namrata,Bose,Nomo@gmail.com,$2y$10$mGGKLL0XM4U8MXzGKXYHq.B.7et1g8k8Tv9cywYn76EqXqCfiBffK,shimultala,vbjksxxassdsd,2024-11-01 13:45:06.972201
+11,Rapti,Chatterjee,Rapti@gmail.com,$2y$10$2..P1a7x38kvX0jdc1gmqe3gXY73VkKDEXGeGeqgZXEO6iKLNikKK,shimultala,vbjksxxassdsdw,2024-11-01 13:45:41.736128
+12,Koyena,Sardar,Koyena@gmail.com,$2y$10$tptXQQHOIYBGtbRNBFuKy.oeAd91N4vzvZRgg2OuHEhTwllqZPdr.,shilpara,vbjksxxassdsdwd,2024-11-01 13:46:13.593703
+13,Khalil,Rahman,Khalil@gmail.com,$2y$10$cMNyDTWWlrDkyvCl3Zi1QOQWdr.y7X.265Js.INq61T0SdyBHhKDe,punjab,vbjksxxassdsdwds,2024-11-01 13:53:08.014066
+14,Farhan,Begg,farhan@gmail.com,$2y$10$jH3ya7q11ZrjTMFWRCUrPuHPsRcVWORLqoPa5tuS8jjLqHKrBKDIC,faridpur,vbjksxxassdsdwds,2024-11-01 13:53:45.908833
